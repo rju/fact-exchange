@@ -8,7 +8,7 @@ discussions face multiple threats from these highly organized **interest groups*
 which try to dominate the discussion and establish their narratives. They use a
 wide variety of rhetoric methods to realize their goal. Beside ad hominem attacks
 on protagonists, interest groups use fear, uncertainty and doubt (FUD), to attack
-their political, economic, and social oponents.
+their political, economic, and social opponents.
 
 These groups possess excessive funding are in an advantage over grassroot
 movements and single actors.  They can use, create, and pick content to support
@@ -23,12 +23,11 @@ the ocean is infinite, you have to provide evidence to counter this argument.
 Unfortunately, individuals cannot be experts in all disciplines and in all
 areas to an extend which allows them to answer to claims made by interest
 gorups. The key weaknesses of such individuals are the lack of prepared knowledge
-and content they can access to counter false claims, and limited knwowledge on
-rhethorical techniques to avoid fair, informed and fact-based discussions. 
+and content they can access to counter false claims, and limited knowledge on
+rhetorical techniques to avoid fair, informed and fact-based discussions. 
 
 To mitigate the knowledge issue, we will create a platform which allows to add
 questions and answers to the system by different authors including experts,
-journalists and online enthusiasts. In th following we describe the core features of
-such system.
+journalists and online enthusiasts.
 
 
